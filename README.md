@@ -1,2 +1,3 @@
 # hack-font-customised
-Alt-hack customised Hack font.
+
+Hack font (ttf) customised to my linking using (alt-hack)[https://github.com/source-foundry/alt-hack].
